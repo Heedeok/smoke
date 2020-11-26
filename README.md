@@ -1,4 +1,20 @@
-# SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation
+
+
+#이 저장소는 smoke 알고리즘을 custom data로 학습시키고, 활용하기 위한 저장소입니다.#
+
+
+
+
+
+
+
+
+
+
+
+
+
+## SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation
 
 <img align="center" src="figures/animation.gif" width="750">
 
@@ -8,8 +24,6 @@ This repository is the official implementation of our paper [SMOKE: Single-Stage
 For more details, please see our paper.
 
 
-
-##**이 저장소는 smoke 알고리즘을 custom data로 학습시키고, 활용하기 위한 저장소입니다.**##
 
 
 
