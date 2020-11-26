@@ -7,6 +7,11 @@
 This repository is the official implementation of our paper [SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation](https://arxiv.org/pdf/2002.10111.pdf).
 For more details, please see our paper.
 
+========================================================
+
+========================================================
+
+
 ## Introduction
 SMOKE is a **real-time** monocular 3D object detector for autonomous driving. 
 The runtime on a single NVIDIA TITAN XP GPU is **~30ms**. 
